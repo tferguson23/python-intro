@@ -22,5 +22,9 @@ eval "$(pyenv virtualenv-init -)"
 
 This will fail because we havent installed openssl
 
-## Install open ssl
+## Install open ssl and other things we need for pyenv
 `brew install openssl@1.1`
+`brew install readline`
+
+## Shortcut to reload the shell
+`alias rr='. ~/zshrc'`
