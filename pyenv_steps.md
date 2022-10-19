@@ -28,3 +28,9 @@ This will fail because we havent installed openssl
 
 ## Shortcut to reload the shell
 `alias rr='. ~/.zshrc'`
+
+## How to ssh
+1. `cd ~/.ssh || mkdir ~/.ssh`
+2. `cd ~/.ssh`
+3. `ssh-keygen`
+4. `pbcopy < ~/.ssh/gitgud.pub`
