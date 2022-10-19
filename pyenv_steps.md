@@ -39,3 +39,13 @@ This will fail because we havent installed openssl
 7. `git config --global url.ssh://git@github.com/.insteadOf https://github.com/`
 
 Hello World
+
+
+## What we did today
+1. We setup ssh keys (big deal)
+2. We got familiarized with git
+3. Installed ssl and readline for our pyenv install
+4. We installed python 3.10.6
+5. We set this repository to _use_ 3.10.6
+6. We set git to prefer ssh authenitcation over https
+7. You pushed a line of code! 
