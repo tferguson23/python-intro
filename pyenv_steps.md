@@ -34,3 +34,6 @@ This will fail because we havent installed openssl
 2. `cd ~/.ssh`
 3. `ssh-keygen`
 4. `pbcopy < ~/.ssh/gitgud.pub`
+5. Paste this key at `github.com/settings/ssh/new`
+6. `ssh-add ~/.ssh/gitgud
+7. `git config --global url.ssh://git@github.com/.insteadOf https://github.com/`
