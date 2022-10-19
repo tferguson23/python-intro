@@ -27,4 +27,4 @@ This will fail because we havent installed openssl
 `brew install readline`
 
 ## Shortcut to reload the shell
-`alias rr='. ~/zshrc'`
+`alias rr='. ~/.zshrc'`
