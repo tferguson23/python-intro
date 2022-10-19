@@ -16,3 +16,11 @@ eval "$(pyenv virtualenv-init -)"
 
 ## Refresh the shell
 `. ~/.zshrc`
+
+## Install 3.10.6
+`pyenv install 3.10.6`
+
+This will fail because we havent installed openssl
+
+## Install open ssl
+`brew install openssl@1.1`
