@@ -6,7 +6,7 @@ Something to keep in mind. VA and NJ have off year elections. You could totally 
 
 I selected the ones below because I thought they stood out. Just scrolling through it will give a sense of what jobs there _are_ and can help you see what the higher level positions look like.
 
-Disclimer: I have no idea what amount of money you need to make it work.
+Disclimer: I have no idea what amount of money you need to make it work but a lot of these are remote or hybrid positions so you can choose to be somewhere easier on cost of living.
 
 $22/hr ([link](https://careercenter.gainpower.org/jobseeker/job/66507580/))
 
